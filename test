@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-country="" tvg-language="" tvg-logo="https://i.imgur.com/5m0i9if.png" tvg-url="" group-title="",Eleven Sports (UK)
 https://elevensports-samsunguk-de.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 tvg-id="AdaTV.cy" tvg-name="Ada TV" tvg-country="EUR" tvg-language="Turkish" tvg-logo="https://i.imgur.com/d8op3Wh.jpg" tvg-url="" group-title="",Ada TV
